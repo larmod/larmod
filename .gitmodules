@@ -1,0 +1,3 @@
+[submodule "modules/Base"]
+	path = modules/Base
+	url = git@github.com:larmod/base-module

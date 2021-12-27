@@ -1,0 +1,24 @@
+{
+    "name": "devnepras/base-module",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Karol Golec",
+            "email": "karolgolec10@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Devnepras\\Base\\": ""
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Base",
+    "alias": "base",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Devnepras\\Base\\Providers\\BaseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
